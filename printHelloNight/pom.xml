@@ -3,7 +3,7 @@
     <parent>
         <artifactId>multi-module-jenkins-test</artifactId>
         <groupId>com.doz</groupId>
-        <version>1.0.14</version>
+        <version>1.0.15</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -12,7 +12,7 @@
         <dependency>
             <groupId>com.doz</groupId>
             <artifactId>hello-common</artifactId>
-            <version>1.0.14</version>
+            <version>1.0.15</version>
         </dependency>
     </dependencies>
 
