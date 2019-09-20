@@ -5,7 +5,7 @@
     <groupId>com.doz</groupId>
     <artifactId>multi-module-jenkins-test</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.6</version>
+    <version>1.0.7</version>
     <modules>
         <module>printHelloDay</module>
         <module>printHelloNight</module>
