@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
 
-COPY target/printHelloNight-*.jar /opt/printHelloNight.jar
+COPY target/printHelloDay-*.jar /opt/printHelloDay.jar
 
-ENTRYPOINT ["java", "-jar", "/opt/printHelloNight.jar"]
+ENTRYPOINT ["java", "-jar", "/opt/printHelloDay.jar"]
